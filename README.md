@@ -5,7 +5,7 @@ Usage
 ----------------
 Make the file executable - 
 ```
-$ chmod +x whois.sh
+$ chmod +x portscan.sh
 ```  
 Run - 
 ```
